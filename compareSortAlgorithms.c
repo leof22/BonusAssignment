@@ -2,6 +2,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+//Leonardo Flores
+//COP3502C
+
 int extraMemoryAllocated;
 
 void *Alloc(size_t sz)
